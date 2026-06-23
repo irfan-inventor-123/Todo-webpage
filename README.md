@@ -1,2 +1,11 @@
-# Todo-webpage
-this is a beginner level project to test my web development skill in basic level
+# Todo Web-Page
+
+This beginner-level project is designed to test and improve my fundamental web development skills.
+
+It helps me understand front-end logic and how to implement browser-based local storage.
+
+## Tech Stack
+
+* **HTML**
+* **Tailwind CSS**
+* **JavaScript**
